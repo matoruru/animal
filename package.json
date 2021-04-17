@@ -10,6 +10,8 @@
   },
   "scripts": {
     "build": "tsc",
+    "prepare": "yarn && yarn build",
+    "prepublishOnly": "yarn test",
     "test": "echo \"Implement me!\""
   },
   "repository": {
