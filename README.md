@@ -2,15 +2,11 @@
 
 ## Installation
 
-#### yarn
-
 ```sh
+# yarn
 $ yarn global add @matoruru/animal
-```
 
-#### npm
-
-```sh
+# npm
 $ npm install -g @matoruru/animal
 ```
 
