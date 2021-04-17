@@ -1,0 +1,25 @@
+{
+  "name": "@matoruru/animal",
+  "version": "1.0.0",
+  "description": "Cries as the animals you type.",
+  "files": [
+    "dist/**/*"
+  ],
+  "bin": {
+    "animal": "index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Implement me!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matoruru/animal.git"
+  },
+  "author": "matoruru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matoruru/animal/issues"
+  },
+  "homepage": "https://github.com/matoruru/animal#readme"
+}
